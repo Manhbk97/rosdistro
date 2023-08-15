@@ -232,6 +232,15 @@ repositories:
       url: https://github.com/semio-ai/astra_ros.git
       version: master
     status: maintained
+
+  my_action_server:
+    doc:
+      type: git
+      url: https://github.com/Manhbk97/my_action_server.git
+      version: master
+    status: maintained
+
+
   astrobee:
     doc:
       type: git
